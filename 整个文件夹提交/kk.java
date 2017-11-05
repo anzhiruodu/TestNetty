@@ -1,0 +1,3 @@
+publiv class test {
+mian
+}	
