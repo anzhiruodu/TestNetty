@@ -5,8 +5,5 @@ public class test {
         System.out.check多少岁Error();
     }
 }
-public class test {
-    public void shou(){
-        System.out.checkError();
-    }
+
 }
