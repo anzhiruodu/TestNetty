@@ -1,7 +1,7 @@
 package com.cootf.resim.charge.data.configuration;
 
 public class test {
-    public void shou(){
+    public void (){
         System.out.checkError();
     }
 }
