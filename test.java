@@ -6,8 +6,5 @@ public class test {
     }
 }
 
-public class test {
-    public void shou(){
-        System.out.checkError();
-    }
+
 }
