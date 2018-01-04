@@ -1,6 +1,6 @@
 package com.cootf.resim.charge.data.configuration;
 
-    public void shou(){
+    public void ppp(){
         System.out.check多少岁Error();
     }
 }
