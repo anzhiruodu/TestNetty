@@ -4,5 +4,4 @@ package com.cootf.resim.charge.data.configuration;
         System.out.error();
     }
 }
-
 }
