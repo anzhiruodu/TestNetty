@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="fix3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,19 +92,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="dev-fixbug" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -168,9 +156,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829782754" />
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613829761685">
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613833153432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829761685" />
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833153432" />
   </component>
 </project>
