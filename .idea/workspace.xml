@@ -19,13 +19,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74961dca-edcf-4857-9538-ebdc8e02ddf7" name="Default Changelist" comment="" />
+    <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="fix3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,16 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="fix1+fix2+fix3" />
+        <option name="rewordedMessage" value="fix1+fix2+fix3&#10;&#10;&#10;fix1+fix2" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="334fdae861c2a781ceb9aa81579874f9ebe50d64" />
   </component>
   <component name="ProjectId" id="1okPNFcrkY4pqxJ6YqsetJM3bHZ" />
   <component name="ProjectViewState">
@@ -62,6 +74,14 @@
       <updated>1613827576019</updated>
       <workItem from="1613827588479" duration="1168000" />
     </task>
+    <task id="LOCAL-00001" summary="fix3">
+      <created>1613829814841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613829814841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="dev-fixbug" />
                       </list>
                     </value>
                   </entry>
@@ -96,6 +116,11 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="dev-fixbug" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="dev" />
                 </option>
               </RecentGroup>
@@ -111,18 +136,41 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21" />
+    <MESSAGE value="fix1" />
+    <MESSAGE value="fix2" />
+    <MESSAGE value="fix3" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="368" y="0" key="MergeDialog" timestamp="1613828915369">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613829809515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613828915369" />
-    <state x="845" y="198" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613828915384">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829809515" />
+    <state x="452" y="203" key="Git.Interactive.Rebase.Dialog" timestamp="1613832489875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="845" y="198" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613828915384" />
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613828888149">
+    <state x="452" y="203" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832489875" />
+    <state x="368" y="0" key="MergeDialog" timestamp="1613832514707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613828888149" />
+    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832514707" />
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613832514723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832514723" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613832450739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613832450739" />
+    <state x="694" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1613829782754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829782754" />
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613829761685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829761685" />
   </component>
 </project>
