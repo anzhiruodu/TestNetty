@@ -1,4 +1,4 @@
-﻿分到发
+分到发
 我是1
 我是2
 我是bug3
@@ -21,3 +21,7 @@
 
 我是bug77
 我是bug88
+fixbug1
+gixbug2
+fixbug3
+fixbug4
