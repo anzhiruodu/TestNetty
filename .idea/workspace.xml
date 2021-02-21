@@ -25,8 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="fix3">
-      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
+    <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="qq3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +44,11 @@
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="fix1+fix2+fix3" />
-        <option name="rewordedMessage" value="fix1+fix2+fix3&#10;&#10;&#10;fix1+fix2" />
+        <option name="originalMessage" value="This is a combination of 2 commits.&#10; The first commit's message is:&#10;&#10;qq1+qq2+qq3&#10;&#10; The commit message #2 will be skipped:&#10;&#10; qq3" />
+        <option name="rewordedMessage" value="qq5&#10;&#10; The commit message #2 will be skipped:&#10;&#10; qq3&#10;&#10;&#10;qq1+qq2&#10;&#10;&#10;qq1" />
       </RewordedCommitMessageMapping>
     </option>
-    <option name="currentCommit" value="1" />
-    <option name="onto" value="334fdae861c2a781ceb9aa81579874f9ebe50d64" />
+    <option name="onto" value="630b4f5daa35607e1b0c1c6b0c27a8c1306127d6" />
   </component>
   <component name="ProjectId" id="1okPNFcrkY4pqxJ6YqsetJM3bHZ" />
   <component name="ProjectViewState">
@@ -81,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613829814841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="qq1">
+      <created>1613833198460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613833198460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qq2">
+      <created>1613833342379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613833342379</updated>
+    </task>
+    <task id="LOCAL-00004" summary="qq3">
+      <created>1613833657375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613833657375</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +112,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev-fixbug" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -129,36 +161,43 @@
     <MESSAGE value="fix1" />
     <MESSAGE value="fix2" />
     <MESSAGE value="fix3" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix3" />
+    <MESSAGE value="qq1" />
+    <MESSAGE value="qq2" />
+    <MESSAGE value="qq3" />
+    <option name="LAST_COMMIT_MESSAGE" value="qq3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613829809515">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613833651471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829809515" />
-    <state x="452" y="203" key="Git.Interactive.Rebase.Dialog" timestamp="1613832489875">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833651471" />
+    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog" timestamp="1613833888747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="203" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832489875" />
-    <state x="368" y="0" key="MergeDialog" timestamp="1613832514707">
+    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833888747" />
+    <state x="368" y="0" key="MergeDialog" timestamp="1613833960433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832514707" />
-    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613832514723">
+    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833960432" />
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613833960442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613832514723" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613832450739">
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833960442" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613833969518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613832450739" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613833969518" />
     <state x="694" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1613829782754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829782754" />
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613833153432">
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613833270042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833153432" />
+    <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833270042" />
+    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1613833917868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613833917868" />
   </component>
 </project>
