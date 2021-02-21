@@ -7,16 +7,3 @@
 我是bug6
 我是bug7
 我是bug8
-我是bug55
-我是bug66
-我是bug77
-我是bug88
-fixbug1
-gixbug2
-fixbug3
-fixbug4
-fixbug5
-fixbug6
-fixbug7
-fixbu8
-fixbug9
