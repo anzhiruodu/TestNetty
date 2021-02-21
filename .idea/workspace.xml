@@ -19,19 +19,22 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="qq3">
+    <list default="true" id="e1a2a294-7dbf-49d9-92f6-cb93198d4530" name="Default Changelist" comment="ch8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/dev-fixbug" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -40,15 +43,10 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitRewordedCommitMessages">
-    <option name="commitMessagesMapping">
-      <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="This is a combination of 2 commits.&#10; The first commit's message is:&#10;&#10;qq1+qq2+qq3&#10;&#10; The commit message #2 will be skipped:&#10;&#10; qq3" />
-        <option name="rewordedMessage" value="qq5&#10;&#10; The commit message #2 will be skipped:&#10;&#10; qq3&#10;&#10;&#10;qq1+qq2&#10;&#10;&#10;qq1" />
-      </RewordedCommitMessageMapping>
-    </option>
-    <option name="onto" value="630b4f5daa35607e1b0c1c6b0c27a8c1306127d6" />
+    <option name="onto" value="92d0a19a00ffe71f4f98b8a70931a7379d1be67c" />
   </component>
   <component name="ProjectId" id="1okPNFcrkY4pqxJ6YqsetJM3bHZ" />
   <component name="ProjectViewState">
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613833657375</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ch8">
+      <created>1613915058449</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613915058449</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +123,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev-fixbug" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -164,40 +169,53 @@
     <MESSAGE value="qq1" />
     <MESSAGE value="qq2" />
     <MESSAGE value="qq3" />
-    <option name="LAST_COMMIT_MESSAGE" value="qq3" />
+    <MESSAGE value="ch8" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613833651471">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613915404029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833651471" />
-    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog" timestamp="1613833888747">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613915404029" />
+    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog" timestamp="1613915880261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833888747" />
-    <state x="368" y="0" key="MergeDialog" timestamp="1613833960433">
+    <state x="416" y="242" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613915880261" />
+    <state x="368" y="0" key="MergeDialog" timestamp="1613915168855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833960432" />
-    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613833960442">
+    <state x="368" y="0" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613915168855" />
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog" timestamp="1613915205242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833960442" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613833969518">
+    <state x="413" y="485" width="666" height="456" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613915205242" />
+    <state x="700" y="223" key="VCS.ChangeListViewerDialog" timestamp="1613915406589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613833969518" />
+    <state x="700" y="223" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613915406589" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613915066247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613915066247" />
     <state x="694" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1613829782754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829782754" />
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613916006333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613916006333" />
     <state x="660" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613833270042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613833270042" />
-    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1613833917868">
+    <state x="720" y="380" key="git4idea.rebase.GitRebaseDialog" timestamp="1613916028126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613833917868" />
+    <state x="720" y="380" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613916028126" />
+    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1613915209223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="410" key="git4idea.rebase.GitUnstructuredEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613915209223" />
   </component>
 </project>
